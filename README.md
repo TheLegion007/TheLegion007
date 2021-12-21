@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheLegion007
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript + react 
-- 💞️ I’m looking to collaborate on any new idea.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning javascript + bootstrap.
+- 💚 I’m looking to collaborate on any new idea.
 - 📫 How to reach me manisksing@gmail.com
 
 <!---

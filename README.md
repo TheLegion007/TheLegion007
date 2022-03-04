@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manish 
-- 👀 I’m interested in Web development and Data Analysis.
+- 👀 I’m interested in Web Development and Data Analysis.
 - 🌱 I’m currently learning javascript + ~bootstrap~ + react .
 - 💚 I’m looking to collaborate on any new idea.
 - 📫 How to reach me manisksing@gmail.com

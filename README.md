@@ -1,6 +1,8 @@
+<!---
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50% ;  height: 50%" />
-</div>  
+</div>
+---> 
 <h1 align="center">Hi👨‍💻, I'm Manish</h1>
 <h3 align="center"> I’m interested in Web Development and Data Analysis.</h3>
 

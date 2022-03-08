@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50% ;  height: 50%" />
+</div>  
+<h1 align="center">Hi👨‍💻, I'm Manish</h1>
 <h3 align="center"> I’m interested in Web Development and Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelegion007&label=Profile%20views&color=0e75b6&style=flat" alt="thelegion007" /> </p>

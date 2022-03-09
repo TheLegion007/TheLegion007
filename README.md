@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **any new projects , on any new idea.**
 
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **manisksing@gmail.com**
 
 - ⚡ Fun fact **I am Lazy.**

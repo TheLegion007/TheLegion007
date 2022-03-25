@@ -34,8 +34,9 @@
 
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelegion007&show_icons=true&locale=en" alt="thelegion007" /></p>
 --->
+<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegion007&" alt="thelegion007" /></p>
-
+--->
 <!---
 TheLegion007/TheLegion007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

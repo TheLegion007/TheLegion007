@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Javascript + <del>Bootstrap</del> + React .**
 
-- 👯 I’m looking to collaborate on **any new projects , on any new idea.**
+- 👯 I’m looking to collaborate on **any new projects ,or new ideas.**
 
 - 📫 How to reach me **manisksing@gmail.com**
 

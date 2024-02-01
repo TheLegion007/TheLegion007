@@ -13,7 +13,7 @@
 --->
 - 🔭 I’m currently working on **React development**
 
-- 🌱 I’m currently learning **SpringBoot + <del>Bootstrap</del> + React .**
+- 🌱 I’m currently learning **SpringBoot + <del>Bootstrap</del> + React + Tailwind.**
 
 - 👯 I’m looking to collaborate on **any new projects ,or new ideas.**
 

@@ -11,7 +11,7 @@
 <!--- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelegion007" alt="thelegion007" /></a> </p>
 --->
-- 🔭 I’m currently working on **React development** 
+- 🔭 I’m currently working on **SpringBoot and React** 
 
 - 🌱 I’m currently learning **SpringBoot + <del>Bootstrap</del> + React + Tailwind.**
 
